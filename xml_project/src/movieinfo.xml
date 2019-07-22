@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>101</code>
+    <title>DDLJ</title>
+    <release-date>
+       <day>31</day>
+       <month>January</month>
+       <year>1998</year> 
+    </release-date>
+    <theatre-name>Maratha Mandir</theatre-name>
+    <theatre-name>INOX</theatre-name>
+    <city>Mumbai</city>
+    <city>Indore</city>
+  </movie>
+  
+  <movie>
+   <code>102</code>
+   <title>MIB</title>
+   <theatre-name>PVR</theatre-name>
+   <city>Pune</city>
+  </movie>
+  
+</movies>
